@@ -1,5 +1,3 @@
-from queue import Empty
-
 
 class Products_In_Cart:
 
