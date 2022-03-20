@@ -11,6 +11,6 @@ customer_shopping.total_products()
 
 customer_shopping.emptying_list()
 
-# customer = Customer('Rosy')
-# print(customer.name)
+customer = Customer('Rosy')
+print(customer.name)
 
